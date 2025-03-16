@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating eye catching website interface and secure backends
 - 🌱 I’m currently learning Python and django  
 - 💞️ I’m looking to collaborate on Cool looking Websites
-- 📫 Reach me at @tanishkmalik_  
+- 📫 Reach me at @tanishkmalik_ on Instagram
 - ⚡ Fun fact: I am always interested in learning new things
 
 <!---
